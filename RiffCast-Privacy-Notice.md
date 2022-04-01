@@ -1,4 +1,4 @@
-**Riffcast Privacy Notice**
+## Riffcast Privacy Notice
 
 Last Updated 1 April 2022
 
