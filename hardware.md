@@ -1,4 +1,4 @@
-You need to connect your guitar to your phone if you want to use the Headphone Amp. 
+You need to connect your guitar to your phone if you want to use the headphone amp. 
 
 To do this requires:
 
