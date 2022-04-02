@@ -2,8 +2,8 @@ You need to connect your guitar to your phone if you want to use the headphone a
 
 To do this requires:
 
-1 x 3.5mm male to 6.35mm male audio cable
-1 x 3.5mm TRRS male to dual 3.5mm female adapter
+- 1 x 3.5mm male to 6.35mm male audio cable
+- 1 x 3.5mm TRRS male to dual 3.5mm female adapter
 
 Then:
 
